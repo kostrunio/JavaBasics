@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 public class IfTestClass {
     public static void main(String[] args) {
         int number = 4;

@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 public class DoubleTestClass {
     public static void main(String[] args) {
         System.out.println("float");

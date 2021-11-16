@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 public class MethodTestClass {
     public static void main(String[] args) {
         myFirstMethod();

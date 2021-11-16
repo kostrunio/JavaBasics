@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 public class ForEachTestClass {
     public static void main(String[] args) {
         int[] numbers = new int[10];

@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 public class VariableTestClass {
     public static void main(String[] args) {
         byte myByte = 127;

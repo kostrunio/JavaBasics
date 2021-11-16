@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 import java.util.Random;
 
 public class WhileTestClass {

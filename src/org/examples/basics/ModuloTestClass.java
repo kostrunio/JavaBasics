@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 public class ModuloTestClass {
     public static void main(String[] args) {
         System.out.println(5%2);//2*2=4; 5-4=1; 1

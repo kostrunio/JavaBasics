@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 public class QuestionMarkTestClass {
     public static void main(String[] args) {
         int number = 10;

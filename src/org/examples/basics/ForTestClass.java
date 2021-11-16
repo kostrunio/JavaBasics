@@ -1,3 +1,5 @@
+package org.examples.basics;
+
 import java.util.Arrays;
 
 public class ForTestClass {
